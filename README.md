@@ -1,1 +1,17 @@
-# mundo4missao4
+# MUNDO 4 MISSÃO 4
+
+# COMANDOS PARA:
+- CRIAR O BANCO
+- INSEIR DADOS
+- EDITAR 
+- APAGAR OS DADOS
+-- ESTAO EM COMANDOS.SQL
+
+
+# RELATORIO PDF 
+
+
+# MODELO DE BANCO DE DADOS 
+--Modelo do banco em xml model e png 
+
+
